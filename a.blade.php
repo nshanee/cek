@@ -22,73 +22,74 @@
     <div id="wrapper">
 
     <nav class="navbar-default navbar-static-side" role="navigation">
-        <div class="sidebar-collapse">
-            <ul class="nav metismenu" id="side-menu">
-                <li class="nav-header">
-                    <div class="dropdown profile-element"> <span>
-                            <img alt="image" class="img-circle" src="img/profile_small.jpg" />
-                             </span>
-                        <a data-toggle="dropdown" class="dropdown-toggle" href="#">
-                            <span class="clear"> <span class="block m-t-xs"> <strong class="font-bold">David Williams</strong>
-                             </span> <span class="text-muted text-xs block">Art Director <b class="caret"></b></span> </span> </a>
-                        <ul class="dropdown-menu animated fadeInRight m-t-xs">
-                            <li><a href="profile.html">Profile</a></li>
-                            <li><a href="contacts.html">Contacts</a></li>
-                            <li><a href="mailbox.html">Mailbox</a></li>
-                            <li class="divider"></li>
-                            <li><a href="login.html">Logout</a></li>
-                        </ul>
-                    </div>
-                    <div class="logo-element">
-                        IN+
-                    </div>
-                </li>
-                <li>
-                    <a href="index.html"><i class="fa fa-th-large"></i> <span class="nav-label">Dashboards</span> <span class="fa arrow"></span></a>
-                    <ul class="nav nav-second-level collapse">
-                        <li><a href="index.html">Dashboard v.1</a></li>
-                        <li><a href="dashboard_2.html">Dashboard v.2</a></li>
-                        <li><a href="dashboard_3.html">Dashboard v.3</a></li>
-                        <li><a href="dashboard_4_1.html">Dashboard v.4</a></li>
-                        <li><a href="dashboard_5.html">Dashboard v.5 </a></li>
+    <div class="sidebar-collapse">
+        <ul class="nav metismenu" id="side-menu">
+            <li class="nav-header">
+                <div class="dropdown profile-element"> 
+                    <span>
+                        <img alt="image" class="img-circle" src="img/profile_small.jpg" />
+                    </span>
+                    <a data-toggle="dropdown" class="dropdown-toggle" href="#">
+                        <span class="clear"> <span class="block m-t-xs"> <strong class="font-bold">David Williams</strong>
+                        </span> <span class="text-muted text-xs block">Art Director <b class="caret"></b></span> </span> </a>
+                    <ul class="dropdown-menu animated fadeInRight m-t-xs">
+                        <li><a href="profile.html">Profile</a></li>
+                        <li><a href="contacts.html">Contacts</a></li>
+                        <li><a href="mailbox.html">Mailbox</a></li>
+                        <li class="divider"></li>
+                        <li><a href="login.html">Logout</a></li>
                     </ul>
-                </li>
-                <li class="active">
-                    <a href="#"><i class="fa fa-files-o"></i> <span class="nav-label">Other Pages</span><span class="fa arrow"></span></a>
-                    <ul class="nav nav-second-level">
-                        <li><a href="search_results.html">Search results</a></li>
-                        <li><a href="lockscreen.html">Lockscreen</a></li>
-                        <li><a href="invoice.html">Invoice</a></li>
-                        <li><a href="login.html">Login</a></li>
-                        <li><a href="login_two_columns.html">Login v.2</a></li>
-                        <li><a href="forgot_password.html">Forget password</a></li>
-                        <li><a href="register.html">Register</a></li>
-                        <li><a href="404.html">404 Page</a></li>
-                        <li><a href="500.html">500 Page</a></li>
-                        <li class="active"><a href="empty_page.html">Empty page</a></li>
-                    </ul>
-                </li>
-            </ul>
-        </div>
-    </nav>
+                </div>
+                <div class="logo-element">
+                    IN+
+                </div>
+            </li>
+            <li>
+                <a href="index.html"><i class="fa fa-th-large"></i> <span class="nav-label">Dashboards</span> <span class="fa arrow"></span></a>
+                <ul class="nav nav-second-level collapse">
+                    <li><a href="index.html">Dashboard v.1</a></li>
+                    <li><a href="dashboard_2.html">Dashboard v.2</a></li>
+                    <li><a href="dashboard_3.html">Dashboard v.3</a></li>
+                    <li><a href="dashboard_4_1.html">Dashboard v.4</a></li>
+                    <li><a href="dashboard_5.html">Dashboard v.5 </a></li>
+                </ul>
+            </li>
+            <li class="active">
+                <a href="#"><i class="fa fa-files-o"></i> <span class="nav-label">Other Pages</span><span class="fa arrow"></span></a>
+                <ul class="nav nav-second-level">
+                    <li><a href="search_results.html">Search results</a></li>
+                    <li><a href="lockscreen.html">Lockscreen</a></li>
+                    <li><a href="invoice.html">Invoice</a></li>
+                    <li><a href="login.html">Login</a></li>
+                    <li><a href="login_two_columns.html">Login v.2</a></li>
+                    <li><a href="forgot_password.html">Forget password</a></li>
+                    <li><a href="register.html">Register</a></li>
+                    <li><a href="404.html">404 Page</a></li>
+                    <li><a href="500.html">500 Page</a></li>
+                    <li class="active"><a href="empty_page.html">Empty page</a></li>
+                </ul>
+            </li>
+        </ul>
+    </div>
+</nav>;
 
         <div id="page-wrapper" class="gray-bg">
         <div class="row border-bottom">
         
         <nav class="navbar navbar-static-top  " role="navigation" style="margin-bottom: 0">
-        <div class="navbar-header">
-            <a class="navbar-minimalize minimalize-styl-2 btn btn-primary " href="#"><i class="fa fa-bars"></i> </a>
-            
-        </div>
-            <ul class="nav navbar-top-links navbar-right">
-                <li>
-                    <a href="login.html">
-                        <i class="fa fa-sign-out"></i> Log out
-                    </a>
-                </li>
-            </ul>
+    <div class="navbar-header">
+        <a class="navbar-minimalize minimalize-styl-2 btn btn-primary " href="#"><i class="fa fa-bars"></i> </a>
+        
+    </div>
+        <ul class="nav navbar-top-links navbar-right">
+            <li>
+                <a href="login.html">
+                    <i class="fa fa-sign-out"></i> Log out
+                </a>
+            </li>
+        </ul>
 
-        </nav>
+    </nav>;
         </div>
             <div class="row wrapper border-bottom white-bg page-heading">
                 <div class="col-sm-4">
