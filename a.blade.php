@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html>
 
@@ -144,4 +145,3 @@
 </body>
 
 </html>
-<?php /**PATH C:\MAMP\htdocs\cat-bkd\resources\views/temp.blade.php ENDPATH**/ ?>
